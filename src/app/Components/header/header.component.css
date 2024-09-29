@@ -1,0 +1,32 @@
+.logo{
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+
+.logo-text{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+li a {
+    margin-top: .25rem;
+    font-size: 1rem;
+}
+
+.nav-items{
+    margin-left: 2rem;
+}
+.login-btns:hover{
+    background-color: #0e2f47;
+}
+/* .nav-link :active{
+
+font-weight: bold;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ box-sizing: border-box;
+
+ padding: 1em;
+} */
